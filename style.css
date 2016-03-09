@@ -1,11 +1,30 @@
 h1{
-    color:peru;
+    color:deepskyblue;
+    font-weight: bold;
+    font-size: 44px;
+    text-shadow: 0px 0px 15px #000;
+    padding-top: 3%;
 }
+
 body{
     text-align: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-weight: bold;
+    font-size: 28px;
+    text-shadow: 0px 0px 15px #fff;
 }
+
+#href{
+    text-align: left;
+}
+
 ul{
     text-align: left;
-    font-size: 16px;
-    color: olivedrab;
+    font-weight: bold;
+    font-size: 28px;
+    text-shadow: 0px 0px 15px #fff;
+
+    padding-left: 5%;
+    color: darkgreen;
 }
